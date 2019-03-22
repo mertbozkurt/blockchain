@@ -46,7 +46,7 @@ MongoClient.connect(connectionURL,{ useNewUrlParser: true }, (error,client) => {
         COCNo:1,
         COCimage:'',
         COCRenewDate:new Date('1995-12-17T03:24:00'),
-        SignAuthImage:'', 
+        signAuthImage:'', 
         partnershipImage:'',
         companyDomain:'',
         labels:'',
